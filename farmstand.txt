@@ -1,0 +1,32 @@
+farmstand app
+
+-One day I was having a conversation with my dad (who owns a farm in Nigeria)and he was telling me about bringing 
+produce to the market. the issue he brought to my attention was he was unware if all the produce was in demand and if 
+he should bring all his product to market. From that conversation came FarmStnd
+
+FarmSTND will allow farmers to look and see what produce is in demand, allow consumers to see what is coming to market- 
+vote on what they would like to see make it to market allowing the farmer to dictate how much of each they bring, and 
+most importantly 
+
+Opening Page
+              *(Title @ the Top) FarmSTND
+Menu Options
+-Farmer
+    -Whats in DEMAND ( Consumers can go on the app and click what they want to be brought to the market)
+    -Post Your Produce to MarketPlace
+    -Wholesale MarketPlace(Consumers who are looking to buy in bulk)
+    -See what has sold out at the Market in the Past
+    -Connect with other Farmers
+    -F.S Transport (Unable to transport your produce? Connect with another farmer to transport produce for a fee) 
+-Consumer
+    -Look at whats coming
+    -DemandSTND (Dont see what you want, vote to have it brought to market)
+    -Consumer Wholesale MarketPlace (Anyone looking to buy produce in bulk)
+    -FarmSTND Produce of the WEEK (Farmers vote on a produce of the week they sell at a discount)
+    -FarmSTND Market Location (Allows you to look at specific markets within the city)
+
+
+*(FarmSTND Produce of the week)
+*(Pics of the Latest produce and current price)
+
+A story worth ST(A)NDing for....
